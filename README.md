@@ -18,7 +18,9 @@ This project predicts stock prices for major tech companies using multiple machi
 * LSTM (Long Short-Term Memory)
 * GRU (Gated Recurrent Unit)
 * 1D CNN (Convolutional Neural Network)
-  Traditional Machine Learning Models:
+
+### Traditional Machine Learning Models:
+
 * Linear Regression
 * Random Forest Regressor
 * XGBoost Regressor
