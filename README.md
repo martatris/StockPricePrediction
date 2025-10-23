@@ -13,7 +13,7 @@ This project predicts stock prices for major tech companies using multiple machi
 
 ## Models Implemented
 
-### Deep Learning Models
+### Deep Learning Models:
 
 * LSTM (Long Short-Term Memory)
 * GRU (Gated Recurrent Unit)
