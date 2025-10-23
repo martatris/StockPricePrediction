@@ -55,10 +55,12 @@ This project predicts stock prices for major tech companies using multiple machi
    cd multi-model-stock-prediction
 2. Create a virtual environment (optional):
    python3 -m venv env
+   
    source env/bin/activate   # macOS/Linux
 
-   # env\Scripts\activate    # Windows
-3. Install required packages:
+   env\Scripts\activate    # Windows
+   
+4. Install required packages:
    pip install -r requirements.txt
 
 ---
